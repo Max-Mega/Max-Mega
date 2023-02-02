@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @Max-Mega
 - 👀 I’m interested in Games!
-- 🌱 I’m currently learning c++, java, javascript, c and lua!
+- 🌱 I’m currently learning c++ and lua!
 - 📫 How to reach me maxmegabusiness@gmail.com
